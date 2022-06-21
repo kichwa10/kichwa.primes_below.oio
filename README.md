@@ -1,0 +1,1 @@
+# kichwa.primes_below.oio
